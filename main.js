@@ -1,5 +1,6 @@
 const dog = document.querySelector('.dog-btn')
 
+
 dog.addEventListener('click', () => {
     const dogUrl = 'https://dog.ceo/api/breeds/image/random'
     const dogImg = document.querySelector('.dogs')

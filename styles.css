@@ -1,4 +1,4 @@
-body {
+body{
     margin: 0;
     display: flex;
     flex-direction: column;
@@ -6,11 +6,11 @@ body {
     font-size: 18px;
 }
 
-h1 {
+h1{
     font-size: 36x;
 }
 
-.api-section {
+.api-section{
     width: 90%;
     max-width: 900px;
     padding: 24px;
@@ -19,30 +19,30 @@ h1 {
     margin: 24px 24px 0;
 }
 
-.api-content {
+.api-content{
     font-weight: bold;
     font-style: italic;
     color: #999;
 }
 
-.sunny {
+.sunny{
     background-image: url("https://cdn3.vectorstock.com/i/1000x1000/80/92/natural-sunny-background-vector-4668092.jpg");
 }
-.cloudy {
+.cloudy{
     background-image: url("https://image.freepik.com/free-vector/cloudy-blue-background_53876-82143.jpg");
 }
-.rain {
+.rain{
     background-image: url("https://previews.123rf.com/images/enrouteksm/enrouteksm1508/enrouteksm150800138/43177813-rain-drops-on-car-window-with-light-bokeh-rainy-season-abstract-background-.jpg");
 }
-.form-container {
+.form-container{
     padding: 15px;
     margin: 0 20px;
     color: blue;
 }
-.card {
+.card{
     width: 18rem;
     height: 28rem;
 }
-legend {
+legend{
     background-color: red;
 }
